@@ -1,0 +1,9 @@
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\bin\Debug\Win10Privacy.exe.config
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\obj\Debug\Win10Privacy.Form1.resources
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\obj\Debug\Win10Privacy.Properties.Resources.resources
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\obj\Debug\Win10Privacy.csproj.GenerateResource.Cache
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\bin\Debug\Win10Privacy.exe
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\bin\Debug\Win10Privacy.pdb
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\obj\Debug\Win10Privacy.exe
+c:\users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\obj\Debug\Win10Privacy.pdb
+C:\Users\aeroxbird\documents\visual studio 2013\Projects\Win10Privacy\Win10Privacy\obj\Debug\Win10Privacy.csprojResolveAssemblyReference.cache
